@@ -1,0 +1,1971 @@
+This is pdfTeX, Version 3.1415926-1.40.10 (MiKTeX 2.8) (preloaded format=pdflatex 2010.9.11)  28 APR 2013 14:51
+entering extended mode
+**2_pivot_pl.tex
+
+("C:\Users\Xavier Pessoles\Dropbox\PartageXavier\PTSI\CI_04_Conception\Cours\03
+_Pivot_PaliersLisses\2_pivot_pl.tex"
+LaTeX2e <2009/09/24>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\article.cls"
+Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\size11.clo"
+File: size11.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Users\Xavier Pessoles\Dropbox\PartageXavier\PTSI\CI_04_Conception\Cours\03
+_Pivot_PaliersLisses\coursHeadings.tex"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\inputenc.sty"
+Package: inputenc 2008/03/30 v1.1d Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\utf8.def"
+File: utf8.def 2008/04/05 v1.1m UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2008/04/05 v1.1m UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mathdesign.sty"
+Package: mathdesign 2006/01/29 v1.55 Math Design Project
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\ifthen.sty"
+Package: ifthen 2001/05/26 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdput\mdput.cfg")
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdput\mdput.sty"
+Package: mdput 2006/01/29 v1.55 adobe utopia + mdput (Math Design Project)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdfont.def"
+File: mdfont.def 2006/01/29 v1.55 (Math Design Project)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdsffont.def"
+File: mdsffont.def 2006/01/29 v1.55 (Math Design Project)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdttfont.def"
+File: mdttfont.def 2006/01/29 v1.55 (Math Design Project)
+)
+\symmdcal=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mdcal' in version `bold'
+(Font)                  OMS/mdput/m/n --> OMS/mdput/b/n on input line 89.
+\symmdscr=\mathgroup5
+LaTeX Font Info:    Overwriting symbol font `mdscr' in version `bold'
+(Font)                  OMS/mdput/m/n --> OMS/mdput/b/n on input line 95.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/xmdeuf/m/n --> U/xmdeuf/b/n on input line 102.
+LaTeX Font Info:    Try loading font information for T1+mdput on input line 111
+.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdput\t1mdput.fd"
+File: t1mdput.fd 2006/01/29 Fontinst v1.928 font definitions for T1/mdput.
+)
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 111.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/mdput/m/n on input line 114.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/mdput/m/it on input line 115.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/mdput/m/n on input line 116.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/mdput/m/n on input line 117.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/mdput/b/n on input line 119.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/mdput/b/it on input line 120.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/mdput/b/n on input line 121.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/mdput/b/n on input line 122.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  OT1/mdput/m/n --> T1/mdput/m/n on input line 124.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/mdput/b/n on input line 125.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/mdput/m/it on input line 126.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> T1/cmss/m/n on input line 127.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 128.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
+(Font)                  OMS/mdput/m/n --> OMS/mdput/m/n on input line 132.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  OT1/mdput/b/n --> T1/mdput/b/n on input line 137.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/mdput/b/n on input line 138.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/mdput/b/it on input line 139.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> T1/cmss/b/n on input line 140.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/b/n on input line 141.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 153.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 154.
+\symlettersupright=\mathgroup6
+LaTeX Font Info:    Overwriting symbol font `lettersupright' in version `bold'
+(Font)                  OML/mdput/m/n --> OML/mdput/b/n on input line 190.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 193.
+Now handling font encoding MDA ...
+... no UTF-8 mapping file for font encoding MDA
+\symmathdesignA=\mathgroup7
+LaTeX Font Info:    Overwriting symbol font `mathdesignA' in version `bold'
+(Font)                  MDA/mdput/m/n --> MDA/mdput/b/n on input line 382.
+\@emptytoks=\toks17
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 421.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 422.
+Now handling font encoding MDB ...
+... no UTF-8 mapping file for font encoding MDB
+\symmathdesignB=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `mathdesignB' in version `bold'
+(Font)                  MDB/mdput/m/n --> MDB/mdput/b/n on input line 685.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\fontenc.sty"
+Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\t1enc.def"
+File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
+)))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen103
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen104
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count87
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count88
+\leftroot@=\count89
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count90
+\DOTSCASE@=\count91
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen105
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count92
+\c@MaxMatrixCols=\count93
+\dotsspace@=\muskip10
+\c@parentequation=\count94
+\dspbrk@lvl=\count95
+\tag@help=\toks19
+\row@=\count96
+\column@=\count97
+\maxfields@=\count98
+\andhelp@=\toks20
+\eqnshift@=\dimen106
+\alignsep@=\dimen107
+\tagshift@=\dimen108
+\tagwidth@=\dimen109
+\totwidth@=\dimen110
+\lineht@=\dimen111
+\@envbody=\toks21
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\babel.sty"
+Package: babel 2008/07/06 v3.8l The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\frenchb.ldf"
+Language: frenchb 2009/03/16 v2.3d French support from the babel system
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\babel.def"
+File: babel.def 2008/07/06 v3.8l Babel common definitions
+\babel@savecnt=\count99
+\U@D=\dimen112
+)
+Package babel Info: Making : an active character on input line 120.
+Package babel Info: Making ; an active character on input line 121.
+Package babel Info: Making ! an active character on input line 122.
+Package babel Info: Making ? an active character on input line 123.
+\FB@Mht=\dimen113
+\std@mcc=\count100
+\dec@mcc=\count101
+\parindentFFN=\dimen114
+
+*************************************
+* Local config file frenchb.cfg used
+*
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\babel\frenchb.cfg")))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\carlisle\scalefnt.sty")
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 91.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\dvips.def"
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen115
+\Gin@req@width=\dimen116
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\framed\framed.sty"
+Package: framed 2007/10/04 v 0.95: framed or shaded text with page breaks
+\fb@frw=\dimen117
+\fb@frh=\dimen118
+\FrameRule=\dimen119
+\FrameSep=\dimen120
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ulem\ulem.sty"
+\UL@box=\box28
+\UL@hyphenbox=\box29
+\UL@skip=\skip46
+\UL@hook=\toks23
+\UL@pe=\count102
+\UL@pixel=\dimen121
+\ULC@box=\box30
+Package: ulem 2010/01/21
+\ULdepth=\dimen122
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\fancyhdr\fancyhdr.sty"
+\fancy@headwidth=\skip47
+\f@ncyO@elh=\skip48
+\f@ncyO@erh=\skip49
+\f@ncyO@olh=\skip50
+\f@ncyO@orh=\skip51
+\f@ncyO@elf=\skip52
+\f@ncyO@erf=\skip53
+\f@ncyO@olf=\skip54
+\f@ncyO@orf=\skip55
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\titlesec\titlesec.sty"
+Package: titlesec 2007/08/12 v2.8 Sectioning titles
+\ttl@box=\box31
+\beforetitleunit=\skip56
+\aftertitleunit=\skip57
+\ttl@plus=\dimen123
+\ttl@minus=\dimen124
+\ttl@toksa=\toks24
+\titlewidth=\dimen125
+\titlewidthlast=\dimen126
+\titlewidthfirst=\dimen127
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ieeepes\vmargin.sty"
+Package: vmargin 1999/06/01
+
+Package `vmargin', V2.2, <1999/06/01>
+\PaperWidth=\dimen128
+\PaperHeight=\dimen129
+) ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\tools\longtable.sty"
+Package: longtable 2004/02/01 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip58
+\LTright=\skip59
+\LTpre=\skip60
+\LTpost=\skip61
+\LTchunksize=\count103
+\LTcapwidth=\dimen130
+\LT@head=\box32
+\LT@firsthead=\box33
+\LT@foot=\box34
+\LT@lastfoot=\box35
+\LT@cols=\count104
+\LT@rows=\count105
+\c@LT@tables=\count106
+\c@LT@chunks=\count107
+\LT@p@ftn=\toks25
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\subfig\subfig.sty"
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\caption\caption.sty"
+Package: caption 2010/01/09 v3.1m Customizing captions (AR)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\caption\caption3.sty"
+Package: caption3 2010/01/14 v3.1m caption3 kernel (AR)
+\captionmargin=\dimen131
+\captionmargin@=\dimen132
+\captionwidth=\dimen133
+\caption@indent=\dimen134
+\caption@parindent=\dimen135
+\caption@hangindent=\dimen136
+)
+\c@ContinuedFloat=\count108
+Package caption Info: longtable package is loaded.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\caption\ltcaption.sty"
+Package: ltcaption 2008/03/28 v1.2 longtable captions (AR)
+))
+\c@KVtest=\count109
+\sf@farskip=\skip62
+\sf@captopadj=\dimen137
+\sf@capskip=\skip63
+\sf@nearskip=\skip64
+\c@subfigure=\count110
+\c@subfigure@save=\count111
+\c@lofdepth=\count112
+\c@subtable=\count113
+\c@subtable@save=\count114
+\c@lotdepth=\count115
+\sf@top=\skip65
+\sf@bottom=\skip66
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\multirow\multirow.sty"
+\bigstrutjot=\dimen138
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\tools\multicol.sty"
+Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
+\c@tracingmulticols=\count116
+\mult@box=\box36
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count117
+\c@collectmore=\count118
+\doublecol@number=\count119
+\multicoltolerance=\count120
+\multicolpretolerance=\count121
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip67
+\multicolbaselineskip=\skip68
+\partial@page=\box37
+\last@line=\box38
+\mult@rightbox=\box39
+\mult@grightbox=\box40
+\mult@gfirstbox=\box41
+\mult@firstbox=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\c@columnbadness=\count122
+\c@finalcolumnbadness=\count123
+\last@try=\dimen144
+\multicolovershoot=\dimen145
+\multicolundershoot=\dimen146
+\mult@nat@firstbox=\box60
+\colbreak@box=\box61
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\base\flafter.sty"
+Package: flafter 2000/07/23 v1.2i Standard LaTeX floats after reference (FMi)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\graphics\color.sty"
+Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 130.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2010/04/15 v0.04r Graphics/color for pdfTeX
+\Gread@gobject=\count124
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\colortbl\colortbl.sty"
+Package: colortbl 2001/02/13 v0.1j Color table columns (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\tools\array.sty"
+Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
+\col@sep=\dimen147
+\extrarowheight=\dimen148
+\NC@list=\toks26
+\extratabsurround=\skip69
+\backup@length=\skip70
+)
+\everycr=\toks27
+\minrowclearance=\skip71
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\psfrag\psfrag.sty"
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count125
+\pfg@scount=\count126
+\pfg@temp=\write3
+)
+LaTeX Font Info:    Font shape `OT1/phv/b/n' will be
+(Font)              scaled to size 68.95996pt on input line 365.
+LaTeX Font Info:    Font shape `OT1/phv/m/it' in size <40> not available
+(Font)              Font shape `OT1/phv/m/sl' tried instead on input line 367.
+LaTeX Font Info:    Font shape `OT1/phv/m/sl' will be
+(Font)              scaled to size 34.47998pt on input line 367.
+LaTeX Font Info:    Font shape `T1/phv/b/n' will be
+(Font)              scaled to size 21.54999pt on input line 369.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pst-solides3d\pst-solides3d.sty"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pstricks\pstricks.sty"
+Package: pstricks 2010/08/28 v0.46 LaTeX wrapper for `PSTricks' (RN,HV)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pstricks\pstricks.tex"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\xkeyval\pst-xkey.tex"
+File: pst-xkey.tex 2005/11/25 v1.6 PSTricks specialization of xkeyval (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks28
+\XKV@tempa@toks=\toks29
+\XKV@depth=\count127
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+)))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pstricks\pst-fp.tex"
+`pst-fp' v0.06, 2010/05/14 (hv)
+\pstFP@xs=\count128
+\pstFP@xia=\count129
+\pstFP@xib=\count130
+\pstFP@xfa=\count131
+\pstFP@xfb=\count132
+\pstFP@rega=\count133
+\pstFP@regb=\count134
+\pstFP@regs=\count135
+\pstFP@times=\count136
+)
+\psLoopIndex=\count137
+
+`PSTricks' v2.10  <2010/08/27> (tvz)
+\pst@dima=\dimen149
+\pst@dimb=\dimen150
+\pst@dimc=\dimen151
+\pst@dimd=\dimen152
+\pst@dimg=\dimen153
+\pst@dimh=\dimen154
+\pst@dimm=\dimen155
+\pst@dimn=\dimen156
+\pst@dimo=\dimen157
+\pst@dimp=\dimen158
+\pst@hbox=\box62
+\pst@boxg=\box63
+\pst@cnta=\count138
+\pst@cntb=\count139
+\pst@cntc=\count140
+\pst@cntd=\count141
+\pst@cntg=\count142
+\pst@cnth=\count143
+\pst@cntm=\count144
+\pst@cntn=\count145
+\pst@cnto=\count146
+\pst@cntp=\count147
+\@zero=\count148
+\pst@toks=\toks30
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pstricks\pstricks.con")
+\psunit=\dimen159
+\psxunit=\dimen160
+\psyunit=\dimen161
+\pslinewidth=\dimen162
+\pst@customdefs=\toks31
+\pslinearc=\dimen163
+\pst@symbolStep=\dimen164
+\pst@symbolWidth=\dimen165
+\everypsbox=\toks32
+\psframesep=\dimen166
+\pslabelsep=\dimen167
+\pst@shift=\dimen168
+\theoverlaybox=\box64
+)
+File: pstricks.tex 2010/08/27 v2.10 `PSTricks' (tvz,hv)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pstricks\pst-fp.tex")
+File: pst-fp.tex 2010/08/27 v2.10 `PST-fp' (hv)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\xcolor\xcolor.sty"
+Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 702.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1337.
+Package xcolor Info: Model `RGB' extended on input line 1353.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1355.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1356.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1357.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
+))
+Package: pst-solides3d 2009/07/25 package wrapper for pst-solides3d
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pst-solides3d\pst-solides3d.tex
+" ("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pst-node\pst-node.tex"
+ v1.13, 2010/06/06
+\psrow=\count149
+\pscol=\count150
+\psmatrixcnt=\count151
+\psrowsep=\skip72
+\pscolsep=\skip73
+\pst@args=\count152
+\num@pts=\count153
+\pst@argcnt=\count154
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\multido\multido.tex"
+ v1.42, 2010/05/14 <tvz>
+\multido@count=\count155
+\multidocount=\count156
+\multido@stuff=\toks33
+) `PSTSOLIDESIIID' v4.20, 2010/07/23
+\test@mode=\count157
+)
+File: pst-solides3d.tex 2010/07/23 v4.20 `PST-solides3D'
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\titlesec\titletoc.sty"
+Package: titletoc 2007/08/12 v1.6 TOC entries
+\ttl@leftsep=\dimen169
+))
+("C:\Users\Xavier Pessoles\Dropbox\PartageXavier\PTSI\CI_04_Conception\Cours\03
+_Pivot_PaliersLisses\FAST.sty"
+Package: FAST 2012/03/09
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pgf\frontendlayer\tikz.sty"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pgf\basiclayer\pgf.sty"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pgf\utilities\pgfrcs.sty"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\utilities\pgfutil-common.te
+x"
+\pgfutil@everybye=\toks34
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\utilities\pgfutil-latex.def
+") ("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\utilities\pgfrcs.code.te
+x"
+Package: pgfrcs 2008/02/20 v2.00 (rcs-revision 1.21)
+))
+Package: pgf 2008/01/15 v2.00 (rcs-revision 1.12)
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pgf\basiclayer\pgfcore.sty"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pgf\systemlayer\pgfsys.sty"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\systemlayer\pgfsys.code.tex
+"
+Package: pgfsys 2008/02/07 v2.00 (rcs-revision 1.31)
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\utilities\pgfkeys.code.tex
+"
+\pgfkeys@pathtoks=\toks35
+\pgfkeys@temptoks=\toks36
+)
+\pgf@x=\dimen170
+\pgf@y=\dimen171
+\pgf@xa=\dimen172
+\pgf@ya=\dimen173
+\pgf@xb=\dimen174
+\pgf@yb=\dimen175
+\pgf@xc=\dimen176
+\pgf@yc=\dimen177
+\c@pgf@counta=\count158
+\c@pgf@countb=\count159
+\c@pgf@countc=\count160
+\c@pgf@countd=\count161
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\systemlayer\pgf.cfg"
+File: pgf.cfg 2008/01/13  (rcs-revision 1.6)
+)
+Package pgfsys Info: Driver file for pgf: pgfsys-pdftex.def on input line 885.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\systemlayer\pgfsys-pdftex.d
+ef"
+File: pgfsys-pdftex.def 2007/12/20  (rcs-revision 1.20)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\systemlayer\pgfsys-common-p
+df.def"
+File: pgfsys-common-pdf.def 2007/12/17  (rcs-revision 1.8)
+)))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\systemlayer\pgfsyssoftpath.
+code.tex"
+File: pgfsyssoftpath.code.tex 2008/01/23  (rcs-revision 1.6)
+\pgfsyssoftpath@smallbuffer@items=\count162
+\pgfsyssoftpath@bigbuffer@items=\count163
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\systemlayer\pgfsysprotocol.
+code.tex"
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcore.code.tex
+"
+Package: pgfcore 2008/01/15 v2.00 (rcs-revision 1.6)
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\math\pgfmath.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\math\pgfmathcalc.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\math\pgfmathutil.code.tex"
+\pgfmath@box=\box65
+) ("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\math\pgfmathparser.code.t
+ex"
+\pgfmath@stack=\toks37
+\c@pgfmath@parsecounta=\count164
+\c@pgfmath@parsecountb=\count165
+\c@pgfmath@parsecountc=\count166
+\pgfmath@parsex=\dimen178
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\math\pgfmathoperations.code
+.tex"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\math\pgfmathtrig.code.tex")
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\math\pgfmathrnd.code.tex"))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\math\pgfmathbase.code.tex")
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcorepoints.co
+de.tex"
+File: pgfcorepoints.code.tex 2008/02/03  (rcs-revision 1.13)
+\pgf@picminx=\dimen179
+\pgf@picmaxx=\dimen180
+\pgf@picminy=\dimen181
+\pgf@picmaxy=\dimen182
+\pgf@pathminx=\dimen183
+\pgf@pathmaxx=\dimen184
+\pgf@pathminy=\dimen185
+\pgf@pathmaxy=\dimen186
+\pgf@xx=\dimen187
+\pgf@xy=\dimen188
+\pgf@yx=\dimen189
+\pgf@yy=\dimen190
+\pgf@zx=\dimen191
+\pgf@zy=\dimen192
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcorepathconst
+ruct.code.tex"
+File: pgfcorepathconstruct.code.tex 2008/02/13  (rcs-revision 1.14)
+\pgf@path@lastx=\dimen193
+\pgf@path@lasty=\dimen194
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcorepathusage
+.code.tex"
+File: pgfcorepathusage.code.tex 2008/01/23  (rcs-revision 1.11)
+\pgf@shorten@end@additional=\dimen195
+\pgf@shorten@start@additional=\dimen196
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcorescopes.co
+de.tex"
+File: pgfcorescopes.code.tex 2008/01/15  (rcs-revision 1.26)
+\pgfpic=\box66
+\pgf@hbox=\box67
+\pgf@layerbox@main=\box68
+\pgf@picture@serial@count=\count167
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcoregraphicst
+ate.code.tex"
+File: pgfcoregraphicstate.code.tex 2007/12/12  (rcs-revision 1.8)
+\pgflinewidth=\dimen197
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcoretransform
+ations.code.tex"
+File: pgfcoretransformations.code.tex 2008/02/04  (rcs-revision 1.10)
+\pgf@pt@x=\dimen198
+\pgf@pt@y=\dimen199
+\pgf@pt@temp=\dimen200
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcorequick.cod
+e.tex"
+File: pgfcorequick.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcoreobjects.c
+ode.tex"
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcorepathproce
+ssing.code.tex"
+File: pgfcorepathprocessing.code.tex 2008/01/23  (rcs-revision 1.7)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcorearrows.co
+de.tex"
+File: pgfcorearrows.code.tex 2007/06/07  (rcs-revision 1.8)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcoreshade.cod
+e.tex"
+File: pgfcoreshade.code.tex 2007/12/10  (rcs-revision 1.9)
+\pgf@max=\dimen201
+\pgf@sys@shading@range@num=\count168
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcoreimage.cod
+e.tex"
+File: pgfcoreimage.code.tex 2008/01/15  (rcs-revision 1.1)
+\pgfexternal@startupbox=\box69
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcorelayers.co
+de.tex"
+File: pgfcorelayers.code.tex 2008/01/15  (rcs-revision 1.1)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcoretranspare
+ncy.code.tex"
+File: pgfcoretransparency.code.tex 2008/01/17  (rcs-revision 1.2)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\basiclayer\pgfcorepatterns.
+code.tex"
+File: pgfcorepatterns.code.tex 2008/01/15  (rcs-revision 1.1)
+)))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\modules\pgfmoduleshapes.cod
+e.tex"
+File: pgfmoduleshapes.code.tex 2008/02/13  (rcs-revision 1.4)
+\pgfnodeparttextbox=\box70
+\toks@savedmacro=\toks38
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\modules\pgfmoduleplot.code.
+tex"
+File: pgfmoduleplot.code.tex 2008/01/15  (rcs-revision 1.1)
+\pgf@plotwrite=\write4
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pgf\compatibility\pgfcomp-version
+-0-65.sty"
+Package: pgfcomp-version-0-65 2007/07/03 v2.00 (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen202
+\pgf@nodesepend=\dimen203
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pgf\compatibility\pgfcomp-version
+-1-18.sty"
+Package: pgfcomp-version-1-18 2007/07/23 v2.00 (rcs-revision 1.1)
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\pgf\utilities\pgffor.sty"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\utilities\pgffor.code.tex"
+Package: pgffor 2007/11/07 v2.00 (rcs-revision 1.8)
+\pgffor@iter=\dimen204
+\pgffor@skip=\dimen205
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\tikz.cod
+e.tex"
+Package: tikz 2008/02/13 v2.00 (rcs-revision 1.27)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\libraries\pgflibraryplothan
+dlers.code.tex"
+File: pgflibraryplothandlers.code.tex 2007/03/09 v2.00 (rcs-revision 1.9)
+\pgf@plot@mark@count=\count169
+\pgfplotmarksize=\dimen206
+)
+\tikz@lastx=\dimen207
+\tikz@lasty=\dimen208
+\tikz@lastxsaved=\dimen209
+\tikz@lastysaved=\dimen210
+\tikzleveldistance=\dimen211
+\tikzsiblingdistance=\dimen212
+\tikz@figbox=\box71
+\tikz@tempbox=\box72
+\tikztreelevel=\count170
+\tikznumberofchildren=\count171
+\tikznumberofcurrentchild=\count172
+\tikz@fig@count=\count173
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\modules\pgfmodulematrix.cod
+e.tex"
+File: pgfmodulematrix.code.tex 2008/01/15  (rcs-revision 1.1)
+\pgfmatrixcurrentrow=\count174
+\pgfmatrixcurrentcolumn=\count175
+\pgf@matrix@numberofcolumns=\count176
+)
+\tikz@expandcount=\count177
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarytopaths.code.tex"
+File: tikzlibrarytopaths.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+)))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibrarycalc.code.tex"
+File: tikzlibrarycalc.code.tex 2008/02/04 v2.00 (rcs-revision 1.5)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryfit.code.tex"
+File: tikzlibraryfit.code.tex 2008/02/06 v2.00 (rcs-revision 1.2)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.code.tex"
+File: tikzlibraryshapes.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.geometric.code.tex"
+File: tikzlibraryshapes.geometric.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\libraries\pgflibraryshapes.
+geometric.code.tex"
+File: pgflibraryshapes.geometric.code.tex 2008/02/01 v2.00 (rcs-revision 1.22)
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.misc.code.tex"
+File: tikzlibraryshapes.misc.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\libraries\pgflibraryshapes.
+misc.code.tex"
+File: pgflibraryshapes.misc.code.tex 2008/02/12 v2.00 (rcs-revision 1.10)
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.symbols.code.tex"
+File: tikzlibraryshapes.symbols.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\libraries\pgflibraryshapes.
+symbols.code.tex"
+File: pgflibraryshapes.symbols.code.tex 2008/01/30 v2.00 (rcs-revision 1.13)
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.arrows.code.tex"
+File: tikzlibraryshapes.arrows.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\libraries\pgflibraryshapes.
+arrows.code.tex"
+File: pgflibraryshapes.arrows.code.tex 2007/11/10 v2.00 (rcs-revision 1.3)
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.callouts.code.tex"
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\libraries\pgflibraryshapes.
+callouts.code.tex"))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryshapes.multipart.code.tex"
+File: tikzlibraryshapes.multipart.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\libraries\pgflibraryshapes.
+multipart.code.tex"
+File: pgflibraryshapes.multipart.code.tex 2008/01/15 v2.00 (rcs-revision 1.7)
+\pgfnodepartlowerbox=\box73
+\pgfnodepartsecondbox=\box74
+\pgfnodepartthirdbox=\box75
+\pgfnodepartfourthbox=\box76
+)))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ltxmisc\relsize.sty"
+Package: relsize 2003/07/04 ver 3.1
+)
+\FASTInterligne=\skip74
+\FASTEspaceColonne=\skip75
+\FASTLargeurBoite=\skip76
+\FASTDecalageTrait=\skip77
+\FASTDecalageOuHorizontal=\skip78
+\FASTDecalageOuVertical=\skip79
+\FASTFSarrondi=\skip80
+\FASTFTarrondi=\skip81
+\FASTSTarrondi=\skip82
+\FASTEpaisseurTraits=\skip83
+\c@cptAbscisse=\count178
+\c@cptAbscisseParent=\count179
+\posX=\skip84
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2010/06/18 v6.81g Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2010/04/26 v1.7 LaTeX kernel commands for general use (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2010/03/01 v1.9 Key value parser (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/message (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2010/01/28 v1.3 Prefix for e-TeX command names (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\pdfescape.sty"
+Package: pdfescape 2010/03/01 v1.9 Provides hex, PDF name and string conversion
+s (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2010/04/01 v0.9 Utility functions of pdfTeX for LuaTeX (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2010/01/28 v2.1 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in pdf mode detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2010/03/01 v1.5 Switches for detecting VTeX and its modes (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ifxetex\ifxetex.sty"
+Package: ifxetex 2009/01/23 v0.5 Provides ifxetex conditional
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\hycolor.sty"
+Package: hycolor 2009/12/12 v1.6 Color options of hyperref/bookmark (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\xcolor-patch.sty"
+Package: xcolor-patch 2009/12/12 xcolor patch
+))
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\letltxmacro.sty"
+Package: letltxmacro 2008/06/24 v1.3 Let assignment for LaTeX macros (HO)
+)
+\@linkdim=\dimen213
+\Hy@linkcounter=\count180
+\Hy@pagecounter=\count181
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2010/06/18 v6.81g Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\intcalc.sty"
+Package: intcalc 2007/09/27 v1.1 Expandable integer calculations (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2010/02/22 v3.7 Keyval support for LaTeX options (HO)
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 3577.
+Package hyperref Info: Hyper figures OFF on input line 3658.
+Package hyperref Info: Link nesting OFF on input line 3663.
+Package hyperref Info: Hyper index ON on input line 3666.
+Package hyperref Info: Plain pages OFF on input line 3673.
+Package hyperref Info: Backreferencing OFF on input line 3678.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 3874.
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4159.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\bitset.sty"
+Package: bitset 2007/09/28 v1.0 Data type bit set (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\bigintcalc.sty"
+Package: bigintcalc 2007/11/11 v1.1 Expandable big integer calculations (HO)
+))
+\Fld@menulength=\count182
+\Field@Width=\dimen214
+\Fld@charsize=\dimen215
+\Field@toks=\toks39
+Package hyperref Info: Hyper figures OFF on input line 5137.
+Package hyperref Info: Link nesting OFF on input line 5142.
+Package hyperref Info: Hyper index ON on input line 5145.
+Package hyperref Info: backreferencing OFF on input line 5152.
+Package hyperref Info: Link coloring ON on input line 5155.
+Package hyperref Info: Link coloring with OCG OFF on input line 5162.
+Package hyperref Info: PDF/A mode OFF on input line 5167.
+LaTeX Info: Redefining \ref on input line 5207.
+LaTeX Info: Redefining \pageref on input line 5211.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\atbegshi.sty"
+Package: atbegshi 2010/03/25 v1.12 At begin shipout hook (HO)
+)
+\Hy@abspage=\count183
+\c@Item=\count184
+\c@Hfootnote=\count185
+)
+* hyperref using default driver hpdftex *
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2010/06/18 v6.81g Hyperref driver for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\atveryend.sty"
+Package: atveryend 2010/03/24 v1.5 Hooks at very end of document (HO)
+Package atveryend Info: \enddocument detected (standard).
+)
+\Fld@listcount=\count186
+\c@bookmark@seq@number=\count187
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2010/03/16 v1.6 Rerun checks for auxiliary files (HO)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\uniquecounter.sty"
+Package: uniquecounter 2009/12/18 v1.1 Provides unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+71.
+)
+\Hy@SectionHShift=\skip85
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\schemabloc\schemabloc.sty"
+Package: schemabloc 2006/12/29
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\frontendlayer\tikz\librarie
+s\tikzlibraryarrows.code.tex"
+File: tikzlibraryarrows.code.tex 2008/01/09 v2.00 (rcs-revision 1.1)
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\pgf\libraries\pgflibraryarrows.
+code.tex"
+File: pgflibraryarrows.code.tex 2007/06/07 v2.00 (rcs-revision 1.7)
+)))
+\c@theorem=\count188
+
+("C:\Users\Xavier Pessoles\Dropbox\PartageXavier\PTSI\CI_04_Conception\Cours\03
+_Pivot_PaliersLisses\2_pivot_pl.aux")
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for MDA/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for MDA+cmr on input line 30.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdacmr.fd"
+File: mdacmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for MDB/cmr/m/n on input line 30.
+LaTeX Font Info:    Try loading font information for MDB+cmr on input line 30.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdbcmr.fd"
+File: mdbcmr.fd 
+)
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Info: Redefining \degres on input line 30.
+LaTeX Info: Redefining \dots on input line 30.
+LaTeX Info: Redefining \up on input line 30.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption3 Info: subfig package 1.2 or 1.3 is loaded.
+LaTeX Info: Redefining \subref on input line 30.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count189
+\scratchdimen=\dimen216
+\scratchbox=\box77
+\nofMPsegments=\count190
+\nofMParguments=\count191
+\everyMPshowfont=\toks40
+\MPscratchCnt=\count192
+\MPscratchDim=\dimen217
+\MPnumerator=\count193
+\everyMPtoPDFconversion=\toks41
+)
+\AtBeginShipoutBox=\box78
+Package hyperref Info: Link coloring ON on input line 30.
+ ("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\hyperref\nameref.sty"
+Package: nameref 2010/04/30 v2.40 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\oberdiek\refcount.sty"
+Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.8\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2009/12/18 v1.3 Cleanup title references (HO)
+)
+\c@section@level=\count194
+)
+LaTeX Info: Redefining \ref on input line 30.
+LaTeX Info: Redefining \pageref on input line 30.
+LaTeX Info: Redefining \nameref on input line 30.
+
+("C:\Users\Xavier Pessoles\Dropbox\PartageXavier\PTSI\CI_04_Conception\Cours\03
+_Pivot_PaliersLisses\2_pivot_pl.out")
+("C:\Users\Xavier Pessoles\Dropbox\PartageXavier\PTSI\CI_04_Conception\Cours\03
+_Pivot_PaliersLisses\2_pivot_pl.out")
+\@outlinefile=\write5
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 19.08076pt on input line 70.
+LaTeX Font Info:    Font shape `T1/mdput/m/fsc' will be
+(Font)              scaled to size 19.08076pt on input line 70.
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 15.89755pt on input line 74.
+LaTeX Font Info:    Font shape `T1/mdput/m/fsc' will be
+(Font)              scaled to size 15.89755pt on input line 74.
+
+<png/img1.png, id=62, 248.93pt x 254.9525pt>
+File: png/img1.png Graphic file (type png)
+ <use png/img1.png>
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 10.07397pt on input line 83.
+LaTeX Font Info:    Try loading font information for OT1+mdput on input line 85
+.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdput\ot1mdput.fd"
+File: ot1mdput.fd 2006/01/29 Fontinst v1.928 font definitions for OT1/mdput.
+)
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 85.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 85.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 85.
+LaTeX Font Info:    Try loading font information for OML+mdput on input line 85
+.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdput\omlmdput.fd"
+File: omlmdput.fd 2006/01/29 Fontinst v1.928 font definitions for OML/mdput.
+)
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 10.07397pt on input line 85.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 7.35999pt on input line 85.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 5.51999pt on input line 85.
+LaTeX Font Info:    Try loading font information for OMS+mdput on input line 85
+.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdput\omsmdput.fd"
+File: omsmdput.fd 2006/01/29 Fontinst v1.928 font definitions for OMS/mdput.
+)
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 85.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 85.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 85.
+LaTeX Font Info:    Try loading font information for OMX+mdput on input line 85
+.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdput\omxmdput.fd"
+File: omxmdput.fd 2006/01/29 Fontinst v1.928 font definitions for OMX/mdput.
+)
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 85.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 85.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 85.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 85.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 85.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 85.
+LaTeX Font Info:    Try loading font information for MDA+mdput on input line 85
+.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdput\mdamdput.fd"
+File: mdamdput.fd 2006/01/29 Fontinst v1.928 font definitions for MDA/mdput.
+)
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 85.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 85.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 85.
+LaTeX Font Info:    Try loading font information for MDB+mdput on input line 85
+.
+
+("C:\Program Files (x86)\MiKTeX 2.8\tex\latex\mathdesign\mdput\mdbmdput.fd"
+File: mdbmdput.fd 2006/01/29 Fontinst v1.928 font definitions for MDB/mdput.
+)
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 85.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 85.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 85.
+
+<png/img2.png, id=64, 300.12125pt x 177.66376pt>
+File: png/img2.png Graphic file (type png)
+ <use png/img2.png>
+<png/img3.png, id=66, 473.77pt x 396.48125pt>
+File: png/img3.png Graphic file (type png)
+ <use png/img3.png>
+LaTeX Font Info:    Font shape `T1/cmss/m/it' will be
+(Font)              scaled to size 11.10338pt on input line 114.
+
+
+Package xcolor Warning: Incompatible color definition on input line 114.
+
+
+Package xcolor Warning: Incompatible color definition on input line 114.
+
+LaTeX Font Info:    Font shape `T1/mdput/m/fsc' will be
+(Font)              scaled to size 10.07397pt on input line 114.
+
+Package xcolor Warning: Incompatible color definition on input line 121.
+
+
+Package xcolor Warning: Incompatible color definition on input line 121.
+
+
+Package xcolor Warning: Incompatible color definition on input line 121.
+
+
+Package xcolor Warning: Incompatible color definition on input line 121.
+
+
+Package xcolor Warning: Incompatible color definition on input line 124.
+
+
+Package xcolor Warning: Incompatible color definition on input line 124.
+
+
+Package xcolor Warning: Incompatible color definition on input line 131.
+
+
+Package xcolor Warning: Incompatible color definition on input line 131.
+
+
+Package xcolor Warning: Incompatible color definition on input line 131.
+
+
+Package xcolor Warning: Incompatible color definition on input line 131.
+
+<png/logo_ptsi.png, id=68, 384.43625pt x 190.7125pt>
+File: png/logo_ptsi.png Graphic file (type png)
+ <use png/logo_ptsi.png>
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 133.
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 8.27998pt on input line 133.
+LaTeX Font Info:    Font shape `T1/cmss/m/it' will be
+(Font)              scaled to size 9.12607pt on input line 133.
+LaTeX Font Info:    Font shape `T1/mdput/m/fsc' will be
+(Font)              scaled to size 8.27998pt on input line 133.
+LaTeX Font Info:    Font shape `T1/mdput/bx/n' in size <9> not available
+(Font)              Font shape `T1/mdput/b/n' tried instead on input line 133.
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 8.27998pt on input line 133.
+
+[1
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored!{C:/ProgramData/MiKTeX/2.8/pdftex/config/pdftex.map}
+
+
+Non-PDF special ignored!
+Non-PDF special ignored!
+Non-PDF special ignored! <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/C
+I_04_Conception/Cours/03_Pivot_PaliersLisses/png/logo_ptsi.png> <C:/Users/Xavie
+r Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLi
+sses/png/img1.png (PNG copy)> <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/P
+TSI/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/img2.png (PNG copy)> <C:/
+Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivo
+t_PaliersLisses/png/img3.png (PNG copy)>]
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 13.24796pt on input line 139.
+LaTeX Font Info:    Font shape `T1/cmss/m/n' will be
+(Font)              scaled to size 14.6017pt on input line 139.
+LaTeX Font Info:    Font shape `T1/cmss/bx/n' will be
+(Font)              scaled to size 14.6017pt on input line 139.
+
+("C:\Users\Xavier Pessoles\Dropbox\PartageXavier\PTSI\CI_04_Conception\Cours\03
+_Pivot_PaliersLisses\2_pivot_pl.toc"
+LaTeX Font Info:    Font shape `T1/cmss/m/n' will be
+(Font)              scaled to size 11.10338pt on input line 2.
+)
+\tf@toc=\write6
+
+
+Package xcolor Warning: Incompatible color definition on input line 149.
+
+LaTeX Font Info:    Font shape `T1/mdput/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/mdput/b/n' tried instead on input line 175.
+LaTeX Font Info:    Font shape `T1/mdput/b/n' will be
+(Font)              scaled to size 10.07397pt on input line 175.
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+[]|\T1/mdput/m/n/10.95 Positionner les deux
+ []
+
+
+Underfull \hbox (badness 2626) in paragraph at lines 177--177
+[]|\T1/mdput/m/n/10.95 Précision du gui-dage,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--177
+\T1/mdput/m/n/10.95 (iso-sta-tisme, cri-tère
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 180--180
+[]|\T1/mdput/m/n/10.95 Guider, per-mettre un
+ []
+
+
+Underfull \hbox (badness 2012) in paragraph at lines 180--180
+\T1/mdput/m/n/10.95 mou-ve-ment re-la-tif de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--185
+[]|\T1/mdput/m/n/10.95 Transmettre et
+ []
+
+
+Underfull \hbox (badness 3690) in paragraph at lines 188--188
+[]|\T1/mdput/m/n/10.95 Résister à l'am-biance
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 188--188
+[]|\T1/mdput/m/n/10.95 Température,
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 200.
+
+File: png/logo_ptsi.png Graphic file (type png)
+<use png/logo_ptsi.png> [2]
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 260.
+LaTeX Font Info:    Font shape `T1/cmss/m/n' will be
+(Font)              scaled to size 12.16809pt on input line 260.
+LaTeX Font Info:    Font shape `T1/cmss/bx/n' will be
+(Font)              scaled to size 12.16809pt on input line 260.
+
+
+Package xcolor Warning: Incompatible color definition on input line 260.
+
+File: png/logo_ptsi.png Graphic file (type png)
+<use png/logo_ptsi.png> [3] <png/fig02.png, id=127, 314.17375pt x 209.78375pt>
+File: png/fig02.png Graphic file (type png)
+
+<use png/fig02.png> <png/fig03.png, id=128, 314.17375pt x 123.46124pt>
+File: png/fig03.png Graphic file (type png)
+
+<use png/fig03.png> <png/fig04.png, id=129, 314.17375pt x 220.825pt>
+File: png/fig04.png Graphic file (type png)
+
+<use png/fig04.png> <png/fig05.png, id=130, 195.73125pt x 98.3675pt>
+File: png/fig05.png Graphic file (type png)
+
+<use png/fig05.png>
+
+Package xcolor Warning: Incompatible color definition on input line 292.
+
+<png/fig06.png, id=131, 131.49126pt x 83.31125pt>
+File: png/fig06.png Graphic file (type png)
+ <use png/fig06.png>
+<png/fig07.png, id=132, 147.55125pt x 94.3525pt>
+File: png/fig07.png Graphic file (type png)
+ <use png/fig07.png>
+<png/fig08.png, id=133, 131.49126pt x 144.54pt>
+File: png/fig08.png Graphic file (type png)
+ <use png/fig08.png>
+<png/fig09.png, id=134, 199.74625pt x 88.33pt>
+File: png/fig09.png Graphic file (type png)
+ <use png/fig09.png>
+Underfull \hbox (badness 10000) in paragraph at lines 331--331
+[]|\T1/mdput/m/n/10.95 Par in-ter-po-si-tion de bague de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 333--333
+[]|\T1/mdput/m/n/10.95 Par in-ter-po-si-tion d'élé-ments
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 335--335
+[]|\T1/mdput/m/n/10.95 Par in-ter-po-si-tion d'un film
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 345.
+
+File: png/logo_ptsi.png Graphic file (type png)
+<use png/logo_ptsi.png> [4 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI
+/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig02.png> <C:/Users/Xavier 
+Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLiss
+es/png/fig03.png> <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Co
+nception/Cours/03_Pivot_PaliersLisses/png/fig04.png> <C:/Users/Xavier Pessoles/
+Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fi
+g05.png> <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/
+Cours/03_Pivot_PaliersLisses/png/fig06.png> <C:/Users/Xavier Pessoles/Dropbox/P
+artageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig07.png> 
+<C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_
+Pivot_PaliersLisses/png/fig08.png> <C:/Users/Xavier Pessoles/Dropbox/PartageXav
+ier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig09.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 355.
+
+
+Package xcolor Warning: Incompatible color definition on input line 361.
+
+
+Package xcolor Warning: Incompatible color definition on input line 364.
+
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 7.35999pt on input line 365.
+<png/fig11.png, id=148, 191.71625pt x 146.5475pt>
+File: png/fig11.png Graphic file (type png)
+ <use png/fig11.png>
+<png/fig12.png, id=149, 175.65625pt x 166.6225pt>
+File: png/fig12.png Graphic file (type png)
+ <use png/fig12.png>
+<png/fig13.png, id=150, 157.58875pt x 167.62625pt>
+File: png/fig13.png Graphic file (type png)
+ <use png/fig13.png>
+<png/fig14.png, id=151, 175.65625pt x 171.64125pt>
+File: png/fig14.png Graphic file (type png)
+ <use png/fig14.png>
+
+Package xcolor Warning: Incompatible color definition on input line 392.
+
+
+Underfull \hbox (badness 1028) in paragraph at lines 395--397
+\T1/mdput/m/n/10.95 fonc-tion-ner à sec ou avec un lé-ger grais-sage au mon-tag
+e sous des vi-tesses
+ []
+
+<png/fig15.png, id=152, 200.75pt x 150.5625pt>
+File: png/fig15.png Graphic file (type png)
+ <use png/fig15.png>
+
+Package xcolor Warning: Incompatible color definition on input line 404.
+
+LaTeX Font Info:    Font shape `T1/mdput/m/it' will be
+(Font)              scaled to size 7.35999pt on input line 407.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 407.
+LaTeX Font Info:    Font shape `OT1/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 407.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 8.27998pt on input line 407.
+LaTeX Font Info:    Font shape `OML/mdput/m/it' will be
+(Font)              scaled to size 4.59999pt on input line 407.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 407.
+LaTeX Font Info:    Font shape `OMS/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 407.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 407.
+LaTeX Font Info:    Font shape `OMX/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 407.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 407.
+LaTeX Font Info:    Font shape `OML/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 407.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 407.
+LaTeX Font Info:    Font shape `MDA/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 407.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 407.
+LaTeX Font Info:    Font shape `MDB/mdput/m/n' will be
+(Font)              scaled to size 4.59999pt on input line 407.
+<png/fig16.png, id=154, 310.15875pt x 247.92625pt>
+File: png/fig16.png Graphic file (type png)
+ <use png/fig16.png>
+File: png/logo_ptsi.png Graphic file (type png)
+
+<use png/logo_ptsi.png> [5 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI
+/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig11.png> <C:/Users/Xavier 
+Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLiss
+es/png/fig12.png> <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Co
+nception/Cours/03_Pivot_PaliersLisses/png/fig13.png> <C:/Users/Xavier Pessoles/
+Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fi
+g14.png> <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/
+Cours/03_Pivot_PaliersLisses/png/fig15.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 417.
+
+<png/fig17.png, id=167, 827.09pt x 475.7775pt>
+File: png/fig17.png Graphic file (type png)
+ <use png/fig17.png>
+
+Package xcolor Warning: Incompatible color definition on input line 485.
+
+
+Package xcolor Warning: Incompatible color definition on input line 486.
+
+LaTeX Font Info:    Font shape `T1/cmss/bx/n' will be
+(Font)              scaled to size 11.10338pt on input line 487.
+<png/fig19.png, id=168, 530.98375pt x 406.51875pt>
+File: png/fig19.png Graphic file (type png)
+ <use png/fig19.png>
+File: png/logo_ptsi.png Graphic file (type png)
+
+<use png/logo_ptsi.png> [6 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI
+/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig16.png> <C:/Users/Xavier 
+Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLiss
+es/png/fig17.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 496.
+
+<png/fig18.png, id=182, 941.5175pt x 226.8475pt>
+File: png/fig18.png Graphic file (type png)
+ <use png/fig18.png>
+LaTeX Font Info:    Font shape `T1/mdput/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 517.
+File: png/logo_ptsi.png Graphic file (type png)
+
+<use png/logo_ptsi.png> [7 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI
+/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig19.png> <C:/Users/Xavier 
+Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLiss
+es/png/fig18.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 533.
+
+
+Package xcolor Warning: Incompatible color definition on input line 536.
+
+<png/fig20.png, id=192, 697.60625pt x 364.36125pt>
+File: png/fig20.png Graphic file (type png)
+ <use png/fig20.png>
+<png/fig21.png, id=193, 205.76875pt x 231.86626pt>
+File: png/fig21.png Graphic file (type png)
+ <use png/fig21.png>
+File: png/logo_ptsi.png Graphic file (type png)
+
+<use png/logo_ptsi.png> [8 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI
+/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig20.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 555.
+
+
+Package xcolor Warning: Incompatible color definition on input line 555.
+
+
+Package xcolor Warning: Incompatible color definition on input line 561.
+
+
+Package xcolor Warning: Incompatible color definition on input line 561.
+
+
+Package xcolor Warning: Incompatible color definition on input line 561.
+
+
+Package xcolor Warning: Incompatible color definition on input line 561.
+
+
+Package xcolor Warning: Incompatible color definition on input line 562.
+
+
+Package xcolor Warning: Incompatible color definition on input line 567.
+
+
+Underfull \hbox (badness 1648) in paragraph at lines 569--572
+[]\T1/mdput/m/n/10.95 Il existe des com-bi-nai-sons pres-sion/vitesse pour
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 569--572
+\T1/mdput/m/n/10.95 pro-duit pV, ca-rac-té-rise l'éner-gie dis-si-pée dans le
+ []
+
+<png/fig22.png, id=201, 449.68pt x 281.05pt>
+File: png/fig22.png Graphic file (type png)
+ <use png/fig22.png>
+File: png/logo_ptsi.png Graphic file (type png)
+
+<use png/logo_ptsi.png> [9 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI
+/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig21.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 580.
+
+<png/fig23.png, id=210, 325.215pt x 234.8775pt>
+File: png/fig23.png Graphic file (type png)
+ <use png/fig23.png>
+<png/fig24.png, id=211, 120.45pt x 158.5925pt>
+File: png/fig24.png Graphic file (type png)
+ <use png/fig24.png>
+
+Package xcolor Warning: Incompatible color definition on input line 626.
+
+<png/fig25.png, id=212, 211.79124pt x 111.41624pt>
+File: png/fig25.png Graphic file (type png)
+ <use png/fig25.png>
+<png/fig26.png, id=213, 270.00874pt x 149.55875pt>
+File: png/fig26.png Graphic file (type png)
+ <use png/fig26.png>
+<png/fig27.png, id=214, 276.03125pt x 200.75pt>
+File: png/fig27.png Graphic file (type png)
+ <use png/fig27.png>
+File: png/logo_ptsi.png Graphic file (type png)
+
+<use png/logo_ptsi.png> [10 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTS
+I/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig22.png> <C:/Users/Xavier
+ Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLis
+ses/png/fig23.png> <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/CI_04_C
+onception/Cours/03_Pivot_PaliersLisses/png/fig24.png>]
+
+Package xcolor Warning: Incompatible color definition on input line 651.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 658--659
+[]|\T1/mdput/m/n/10.95 Vitesse maxi-male
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 659--660
+[]|\T1/mdput/m/n/10.95 Températures
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 659--660
+\T1/mdput/m/n/10.95 li-mites de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 659--660
+\T1/mdput/m/n/10.95 fonc-tion-ne-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
+[]|\T1/mdput/m/n/10.95 Produits PV
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 661--662
+\T1/mdput/m/n/10.95 ad-mis-sibles
+ []
+
+
+Package xcolor Warning: Incompatible color definition on input line 683.
+
+
+Package xcolor Warning: Incompatible color definition on input line 684.
+
+<png/fig29.png, id=225, 492.84125pt x 310.15875pt>
+File: png/fig29.png Graphic file (type png)
+ <use png/fig29.png>
+Underfull \hbox (badness 10000) in paragraph at lines 696--698
+\T1/mdput/m/n/10.95 Avantage : éco-no-mique par rap-port à ceux de droite
+ []
+
+<png/fig30.png, id=226, 182.6825pt x 200.75pt>
+File: png/fig30.png Graphic file (type png)
+ <use png/fig30.png>
+File: png/logo_ptsi.png Graphic file (type png)
+
+<use png/logo_ptsi.png> [11 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTS
+I/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig25.png> <C:/Users/Xavier
+ Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLis
+ses/png/fig26.png (PNG copy)> <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/P
+TSI/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig27.png (PNG copy)>]
+
+Package xcolor Warning: Incompatible color definition on input line 711.
+
+<png/fig31.png, id=232, 294.09875pt x 324.21124pt>
+File: png/fig31.png Graphic file (type png)
+ <use png/fig31.png>
+<png/fig32.png, id=233, 339.2675pt x 248.93pt>
+File: png/fig32.png Graphic file (type png)
+ <use png/fig32.png>
+<png/fig33.png, id=234, 300.12125pt x 284.06125pt>
+File: png/fig33.png Graphic file (type png)
+ <use png/fig33.png>
+<png/fig34.png, id=235, 893.3375pt x 271.0125pt>
+File: png/fig34.png Graphic file (type png)
+ <use png/fig34.png>
+File: png/logo_ptsi.png Graphic file (type png)
+
+<use png/logo_ptsi.png> [12 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTS
+I/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig29.png> <C:/Users/Xavier
+ Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLis
+ses/png/fig30.png> <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/CI_04_C
+onception/Cours/03_Pivot_PaliersLisses/png/fig31.png (PNG copy)> <C:/Users/Xavi
+er Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersL
+isses/png/fig32.png> <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTSI/CI_04
+_Conception/Cours/03_Pivot_PaliersLisses/png/fig33.png (PNG copy)> <C:/Users/Xa
+vier Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_Palier
+sLisses/png/fig34.png>] <png/fig35.png, id=244, 412.54124pt x 356.33125pt>
+File: png/fig35.png Graphic file (type png)
+
+<use png/fig35.png> <png/fig36.png, id=245, 401.5pt x 340.27126pt>
+File: png/fig36.png Graphic file (type png)
+
+<use png/fig36.png>
+LaTeX Font Info:    Font shape `T1/cmtt/m/n' will be
+(Font)              scaled to size 11.4646pt on input line 765.
+
+Underfull \hbox (badness 1924) in paragraph at lines 769--770
+[]\T1/mdput/m/n/10.95 Construction Mé-ca-nique -- Les pa-liers lisses ou cous-s
+i-nets -- Fa-milles de cous-si-nets, di-men-sion-ne-ment,
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 772.
+File: png/logo_ptsi.png Graphic file (type png)
+<use png/logo_ptsi.png> [13 <C:/Users/Xavier Pessoles/Dropbox/PartageXavier/PTS
+I/CI_04_Conception/Cours/03_Pivot_PaliersLisses/png/fig35.png> <C:/Users/Xavier
+ Pessoles/Dropbox/PartageXavier/PTSI/CI_04_Conception/Cours/03_Pivot_PaliersLis
+ses/png/fig36.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 772.
+
+("C:\Users\Xavier Pessoles\Dropbox\PartageXavier\PTSI\CI_04_Conception\Cours\03
+_Pivot_PaliersLisses\2_pivot_pl.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 772.
+Package rerunfilecheck Info: File `2_pivot_pl.out' has not changed.
+(rerunfilecheck)             Checksum: 302FA0BAAE57540E6CFD81086F8A414B;1103.
+ ) 
+Here is how much of TeX's memory you used:
+ 20508 strings out of 495285
+ 348468 string characters out of 3179797
+ 519405 words of memory out of 3000000
+ 23072 multiletter control sequences out of 15000+200000
+ 173786 words of font info for 116 fonts, out of 3000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 54i,17n,62p,647b,667s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files (x86)/MiKTeX 2.8/fonts/enc/dvips/cm-super/cm-super-t1.enc}{
+C:/Program Files (x86)/MiKTeX 2.8/fonts/enc/dvips/fontname/texnansi.enc}<C:/Pro
+gram Files (x86)/MiKTeX 2.8/fonts/type1/mathdesign/mdput/md-utr7t.pfb><C:/Progr
+am Files (x86)/MiKTeX 2.8/fonts/type1/mathdesign/mdput/md-utr7v.pfb><C:/Program
+ Files (x86)/MiKTeX 2.8/fonts/type1/mathdesign/mdput/md-utr7y.pfb><C:/Program F
+iles (x86)/MiKTeX 2.8/fonts/type1/mathdesign/mdput/md-utr8t.pfb><C:/Program Fil
+es (x86)/MiKTeX 2.8/fonts/type1/mathdesign/mdput/md-utri7m.pfb><C:/Program File
+s (x86)/MiKTeX 2.8/fonts/type1/mathdesign/mdput/md-utri8t.pfb><C:/Program Files
+ (x86)/MiKTeX 2.8/fonts/type1/adobe/utopia/putb8a.pfb><C:/Program Files (x86)/M
+iKTeX 2.8/fonts/type1/adobe/utopia/putr8a.pfb><C:/Program Files (x86)/MiKTeX 2.
+8/fonts/type1/adobe/utopia/putri8a.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts
+/type1/public/cm-super/sfsi0900.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/ty
+pe1/public/cm-super/sfsi1095.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1
+/public/cm-super/sfss1095.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/pu
+blic/cm-super/sfsx1095.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/publi
+c/cm-super/sfsx1200.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/c
+m-super/sfsx1440.pfb><C:/Program Files (x86)/MiKTeX 2.8/fonts/type1/public/cm-s
+uper/sftt1095.pfb>
+Output written on 2_pivot_pl.pdf (13 pages, 3334248 bytes).
+PDF statistics:
+ 328 PDF objects out of 1000 (max. 8388607)
+ 51 named destinations out of 1000 (max. 500000)
+ 310 words of extra memory for PDF output out of 10000 (max. 10000000)
+
